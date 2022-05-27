@@ -1,0 +1,6 @@
+1. najpierw trzeba odpalić clickera i sie zalogować 
+2. póżniej wejść w %appdata%
+3. pózniej wejść w .XYZclicker
+4 i z folderu gui trzeba wrzucić wszystko do .XYZclicker/assets
+5. i odpal clickera i sie ciesz :) 
+GLHF!
