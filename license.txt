@@ -1,1 +1,7 @@
+XYZ License
+
+Copyright (c) 2022 xratatuj
+
 goto: XYZ.JAR
+
+All License: 
